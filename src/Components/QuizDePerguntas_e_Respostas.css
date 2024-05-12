@@ -1,0 +1,14 @@
+.questions{
+  list-style-type: upper-alpha;
+  text-align: start;
+  cursor: pointer;
+}
+
+li{
+  transition: all 0.2s ease-in-out;
+}
+
+li:hover{
+  background-color: rgb(47, 47, 47);
+  border-radius: 10px;
+}
